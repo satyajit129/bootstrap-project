@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,700&display=swap');
+/* 
+font-family: 'Kaushan Script', cursive;
+font-family: 'Montserrat', sans-serif;
+ */
+a.navbar-brand{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+a.navbar-brand:hover{
+  color: #fff;
+}
+#hero-section{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+a.nav-link{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+a.nav-link:hover{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+.nav-item{
+  margin: 0 10px;
+}
+.hero-heading h3{
+  font-family: 'Kaushan Script', cursive;
+  font-weight: 500;
+  font-size: 4.5rem;
+  color:#fff;
+  padding-top: 170px;
+}
+.hero-heading h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 4.5rem;
+  color:#fff;
+
+}
+
+
+
+
+
+
+
+
+
+ /* hero section */
+/* a.navbar-brand{
+    color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+a.navbar-brand:hover{
+    color: #fff;
+}
+a.nav-link{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1rem;
+    border-bottom: 2px solid #fce38a00;
+}
+a.nav-link:hover{
+    color: #fce38a;
+    border-bottom: 2px solid #fce38a;
+    /* font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1rem; */
+/* } */
+/* .nav-item{
+    margin: 0 16px;
+}
+#hero-section{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    background-blend-mode: multiply;  
+}
+.hero-heading h3{
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 500;
+    font-size: 4.5rem;
+    color:#fff;
+    padding-top: 170px;
+}
+.hero-heading h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 6rem;
+    text-transform: uppercase;
+    color:#fff;
+} */
